@@ -12,7 +12,7 @@ public class Knight extends Piece {
 			}
 			return true;
 		}
-
+		System.out.println("hello");
 		return false;
 	}
 }
